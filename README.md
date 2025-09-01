@@ -1,7 +1,7 @@
 # DSA Daily Practice 🚀
 
 Welcome to the **DSA Daily Practice Group Repo**!  
-Solve **1–2 problems every day**, share your approaches, and track your streaks. Consistency > intensity. 💪
+Solve **3–5 problems every day**, share your approaches, and track your streaks. Consistency > intensity. 💪
 
 ## How it works
 - A new problem is added under `Problems/Day-XX/Problem.md`.
