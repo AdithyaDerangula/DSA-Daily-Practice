@@ -1,16 +1,68 @@
-# Day 01 — Two Sum (Easy)
+# Day 1 – Patterns Challenge
 
-**Task:** Given an array of integers `nums` and an integer `target`, return **indices** of the two numbers such that they add up to `target`.  
-Assume exactly one solution and that you may not use the same element twice.
-
-**Example:**
+## 1) Right-Angled Triangle
 ```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
+Write a program to print the following pattern for n = 5:
+
+*
+**
+***
+****
+*****
 ```
 
-**Follow-ups:**
-- Can you solve it in `O(n)` time?
-- What are the trade-offs between hash map vs brute force?
+---
 
-Add your solutions in `solutions/YourName.ext` and include complexity analysis.
+## 2) Inverted Right-Angled Triangle
+```
+Write a program to print the following pattern for n = 5:
+
+*****
+****
+***
+**
+*
+```
+
+---
+
+## 3) Pyramid Pattern
+```
+Write a program to print the following pyramid pattern for n = 5:
+
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+---
+
+## 4) Number Triangle
+```
+Write a program to print the following number triangle pattern for n = 5:
+
+1
+12
+123
+1234
+12345
+```
+
+---
+
+## 5) Diamond Pattern
+```
+Write a program to print the following diamond pattern for n = 5:
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+```
