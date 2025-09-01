@@ -4,18 +4,10 @@
 - Be respectful and constructive.
 - Prefer **readable code** with comments over clever one-liners.
 - Include **time & space complexity**.
-- File names: `YourName.ext` (e.g., `Adithya.py`), no spaces.
 
 ## Steps
-1. **Fork** the repo and **clone** your fork.
-2. Create a feature branch: `git checkout -b day-01-solution-adithya`.
-3. Add your file under the correct day: `Problems/Day-XX/solutions/YourName.ext`.
-4. Commit message style:
-   - `feat: add <name> solution for Day 01`
-   - `refactor: optimize two-pointer approach`
-   - `docs: update Progress-Tracker`
-5. Push and open a **Pull Request** from your fork to `main`.
-6. Request a review and iterate if needed.
+1. Add your file under the correct day: `Solutions/Your name/Day-XX/solution.ext`.
+2. Update the Progress tracker.
 
 ## Code style
 - Python: use functions, avoid global state, add `if __name__ == "__main__":` for tests.
